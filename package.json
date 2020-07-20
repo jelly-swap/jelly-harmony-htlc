@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "name": "jelly-harmony-htlc",
+    "main": "index.js",
+    "author": "kraikov",
+    "license": "MIT",
+    "dependencies": {
+        "@harmony-js/core": "^0.1.49",
+        "tslib": "^2.0.0"
+    }
+}
